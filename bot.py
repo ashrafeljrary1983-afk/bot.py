@@ -24,7 +24,7 @@ def run_web():
 
 
 # --- إعدادات تليجرام وبوت الذهب ---
-TOKEN = "أدخل_التوكن_الخاص_ببوتك_هنا"  # ضع توكن البوت هنا بين علامتي التنصيص
+TOKEN = "8797846395:AAHDyPh81RAusRUOnOpRG2aBR2Ovut4vNY0"
 CHANNEL_NAME = "-1003976097371"  # معرف قناتك الرقمي
 
 bot = Bot(token=TOKEN)
